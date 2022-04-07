@@ -28,7 +28,6 @@ header{
 
 .menu-header ul{
     display: flex;
-    justify-content:flex-end;
     gap: 2em;
 }
 
